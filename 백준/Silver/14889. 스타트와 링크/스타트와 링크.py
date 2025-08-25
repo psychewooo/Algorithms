@@ -16,7 +16,7 @@ def calculate_ability(member, ability):
 
 N = int(input())
 
-people = []
+people = [] 
 
 for i in range(N):
     people.append(i)
