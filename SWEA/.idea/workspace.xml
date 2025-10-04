@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8f841e9-a879-4fcb-bca6-683294bef10d" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/../1219/1219.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1244/1244.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1244_BAEKJOON/1244.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14502/14502.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14889/14889.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14889/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1952/1952.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1953/1953.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1953/sample_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2105/2105.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2105/sample_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../22683/22683.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2635/2635.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2635/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2814/2814.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3142/3142-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3142/3142-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3142/3142-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3143/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3143/.idea/3143.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3143/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3143/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3143/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3143/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3143/3143.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3143/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5247/5247-feedback.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5247/5247.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5247/sample_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5247/sample_output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6190/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6190/.idea/6190.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6190/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6190/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6190/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6190/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6190/6190.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6190/s_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6485/6485.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="33bigZO9oL2Jd8wWpvkIEdekwSj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="a8f841e9-a879-4fcb-bca6-683294bef10d" name="변경" comment="" />
+      <created>1759592283929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759592283929</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/14889/14889.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
