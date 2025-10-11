@@ -14,11 +14,11 @@ for tc in range(1, T + 1):
     vowel = ['a', 'e', 'i', 'o', 'u']
 
     # 자음을 담을 빈 문자열
-    invisible = ''
+    visible = ''
 
     # 주어진 단어를 순회하며 자음만을 찾아낸다
     for char in word:
         if char not in vowel:
-            invisible += char
+            visible += char
     
-    print(f'#{tc} {invisible}')
+    print(f'#{tc} {visible}')
